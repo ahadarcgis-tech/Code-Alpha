@@ -1,0 +1,6 @@
+Hello, please contact us at support@example.com for help.
+You can also reach John at john.doe@gmail.com or jane_smith@yahoo.co.uk.
+For billing, email billing@company.org or finance@company.org.
+Invalid emails like @broken or noatsign.com will be ignored.
+Duplicate: support@example.com should only appear once.
+Reach the dev team at dev-team@startup.io!

@@ -1,0 +1,6 @@
+support@example.com
+john.doe@gmail.com
+jane_smith@yahoo.co.uk
+billing@company.org
+finance@company.org
+dev-team@startup.io
